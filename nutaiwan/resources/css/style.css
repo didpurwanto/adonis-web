@@ -572,9 +572,9 @@ section {
   transition: all 0.5s ease-in-out 0s;
 }
 #get-started .feature-block img {
-  height: 60px;
+  height: 100px;
   margin-bottom: 30px;
-  width: 60px;
+  width: 150px;
 }
 @media (max-width: 991px) {
   #get-started .feature-block {
